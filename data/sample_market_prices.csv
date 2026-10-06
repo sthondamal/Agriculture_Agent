@@ -1,0 +1,20 @@
+date,state,district,market,commodity,variety,min_price,modal_price,max_price,unit
+2025-11-15,Karnataka,Kolar,Kolar APMC,Tomato,Local,1800,2400,3100,quintal
+2025-11-15,Karnataka,Kolar,Kolar APMC,Onion,Red,2200,2800,3400,quintal
+2025-11-15,Karnataka,Kolar,Kolar APMC,Beans,Green,4200,5200,6100,quintal
+2025-11-15,Karnataka,Mysuru,Mysuru APMC,Banana,Robusta,1800,2300,2900,quintal
+2025-11-15,Karnataka,Mysuru,Mysuru APMC,Tomato,Local,1600,2200,2900,quintal
+2025-11-15,Karnataka,Mysuru,Mysuru APMC,Cabbage,Green,900,1300,1800,quintal
+2025-11-15,Karnataka,Dharwad,Dharwad APMC,Chilli,Byadagi,6500,8200,9800,quintal
+2025-11-15,Karnataka,Dharwad,Dharwad APMC,Onion,Red,2000,2600,3200,quintal
+2025-11-15,Karnataka,Dharwad,Dharwad APMC,Maize,Hybrid,1900,2200,2500,quintal
+2025-11-15,Karnataka,Belagavi,Belagavi APMC,Sugarcane,Co 86032,310,360,410,quintal
+2025-11-15,Karnataka,Belagavi,Belagavi APMC,Maize,Hybrid,1850,2150,2450,quintal
+2025-11-15,Karnataka,Belagavi,Belagavi APMC,Chilli,Local,5200,7000,8600,quintal
+2025-11-15,Karnataka,Shivamogga,Shivamogga APMC,Arecanut,Chali,32000,38000,45000,quintal
+2025-11-15,Karnataka,Shivamogga,Shivamogga APMC,Banana,Robusta,1900,2400,3000,quintal
+2025-11-15,Karnataka,Hassan,Hassan APMC,Coconut,Dry,9000,11500,14000,quintal
+2025-11-15,Karnataka,Hassan,Hassan APMC,Potato,Local,1400,1900,2400,quintal
+2025-11-15,Karnataka,Bengaluru Rural,Doddaballapur APMC,Beans,Green,4500,5500,6500,quintal
+2025-11-15,Karnataka,Bengaluru Rural,Doddaballapur APMC,Tomato,Local,1700,2300,3000,quintal
+2025-11-15,Karnataka,Bengaluru Rural,Doddaballapur APMC,Flower,Marigold,3000,4200,5600,quintal
